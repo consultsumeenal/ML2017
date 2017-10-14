@@ -1,2 +1,1 @@
-!#/usr/bin/python2
-print "Hello World"
+print("Hello World test git")
